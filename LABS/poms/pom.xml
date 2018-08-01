@@ -8,6 +8,11 @@
   <packaging>pom</packaging>
   <name>LABS Codes Master</name>
   <url>http://www.talend.org/</url>
+  <modules>
+    <module>jobs/process/job1_0.1</module>
+    <module>jobs/process/job2_0.1</module>
+    <module>jobs/process/job3_0.1</module>
+  </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>
     <encoding>UTF-8</encoding>
