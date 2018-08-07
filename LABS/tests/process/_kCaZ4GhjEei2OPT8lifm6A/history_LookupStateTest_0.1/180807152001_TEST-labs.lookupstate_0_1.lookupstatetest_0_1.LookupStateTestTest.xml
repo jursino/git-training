@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="labs.lookupstate_0_1.lookupstatetest_0_1.LookupStateTestTest" time="0.501" tests="1" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="labs.lookupstate_0_1.lookupstatetest_0_1.LookupStateTestTest" time="0.06" tests="1" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="D:\Talend\java\jdk-8u172\jre\bin"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="D:\Talend\studio\workspace\talend701_git_cloud_jursino\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6881489489945098106.tmp"/>
+    <property name="classworlds.conf" value="D:\Talend\studio\workspace\talend701_git_cloud_jursino\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3901539428713721988.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="D:\Talend\java\jdk-8u172\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\jursino\AppData\Local\Microsoft\WindowsApps;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,14 +61,14 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="labs.lookupstate_0_1.lookupstatetest_0_1.LookupStateTestTest.testDefault" classname="labs.lookupstate_0_1.lookupstatetest_0_1.LookupStateTestTest" time="0.499">
+  <testcase name="labs.lookupstate_0_1.lookupstatetest_0_1.LookupStateTestTest.testDefault" classname="labs.lookupstate_0_1.lookupstatetest_0_1.LookupStateTestTest" time="0.057">
     <failure message="Failure=1&#10;tAssert_1:File from reference differs from input&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
 Failure=1
 tAssert_1:File from reference differs from input
 
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.assertTrue(Assert.java:41)
-	at labs.lookupstate_0_1.lookupstatetest_0_1.LookupStateTestTest.testDefault(LookupStateTestTest.java:3439)
+	at labs.lookupstate_0_1.lookupstatetest_0_1.LookupStateTestTest.testDefault(LookupStateTestTest.java:3443)
 </failure>
     <system-out><![CDATA[[job LookupStateTest] Files differ
 ]]></system-out>
